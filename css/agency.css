@@ -71,8 +71,8 @@ section h3.section-subheading {
 }
 
 .btn-primary {
-  background-color: #fed136;
-  border-color: #fed136;
+  background-color: #6699FF;
+  border-color: #6699FF;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -124,9 +124,9 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand {
+  font-weight: bold;
   color: white;
   font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
-  /* font-size: px; */
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
