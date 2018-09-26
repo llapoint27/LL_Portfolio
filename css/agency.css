@@ -147,6 +147,28 @@ img::-moz-selection {
   color: #fed136;
 }
 
+
+/* social icons in main nav */
+
+ul.social-buttons-nav {
+  margin-bottom: 0;
+}
+
+ul.social-buttons li a {
+  font-size: 20px;
+  line-height: 50px;
+  display: block;
+  width: 50px;
+  height: 50px;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  color: white;
+  border-radius: 100%;
+  outline: none;
+  background-color: grey;
+}
+
+
 @media (min-width: 992px) {
   #mainNav {
     padding-top: 25px;
@@ -173,6 +195,34 @@ img::-moz-selection {
     font-size: 1.25em;
     padding: 12px 0;
   }
+}
+
+/* skills section */
+.dev-icons {
+  font-size: 7rem;
+  text-align: center;
+  color: #00008B;
+}
+
+.dev-icons .list-inline-item i:hover {
+  color: #BD5D38;
+}
+
+.subheading {
+  text-align: center;
+  font-size: 25px;
+  color: #6c757d!important;
+}
+
+.fa-ul .fa-check  {
+  color: #6c757d!important;
+  text-align: center;
+}
+
+/* end skills section */
+
+.mb-5 {
+  text-align: center;
 }
 
 header.masthead {
