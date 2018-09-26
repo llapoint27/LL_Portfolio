@@ -198,6 +198,8 @@ ul.social-buttons li a {
 }
 
 /* skills section */
+
+
 .dev-icons {
   font-size: 7rem;
   text-align: center;
@@ -223,6 +225,7 @@ ul.social-buttons li a {
 
 .mb-5 {
   text-align: center;
+  font-size: 40px;
 }
 
 header.masthead {
