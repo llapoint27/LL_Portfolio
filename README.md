@@ -1,3 +1,12 @@
+# Lauren Lapoint's Personal Portfolio
+I'm using a Bootstrap Theme. Please find all details on the template, theme, and bootstrap technologies below. Check out my portfolio here: https://llapoint27.github.io/LL_Portfolio/
+<br>
+Thanks for stopping by, cheers!
+
+
+
+
+
 # [Start Bootstrap - Agency](https://startbootstrap.com/template-overviews/agency/)
 
 [Agency](https://startbootstrap.com/template-overviews/agency/) is a one page agency portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features several content sections, a responsive portfolio grid with hover effects, full page portfolio item modals, a responsive timeline, and a working PHP contact form.
