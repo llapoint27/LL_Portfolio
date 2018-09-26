@@ -1,6 +1,8 @@
-# Lauren Lapoint's Personal Portfolio
-I'm using a Bootstrap Theme. Please find all details on the template, theme, and bootstrap technologies below. Check out my portfolio here: https://llapoint27.github.io/LL_Portfolio/
-<br>
+# Lauren Lapoint's Portfolio
+I'm using a Bootstrap Theme. Please find all details on this template below. 
+<br><br>
+Check out my portfolio here: https://llapoint27.github.io/LL_Portfolio/
+<br><br>
 Thanks for stopping by, cheers!
 
 
