@@ -130,7 +130,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  /* color: #fec503; */
+  /* color: #fec503; */x
   color: white;
 }
 
@@ -210,15 +210,21 @@ ul.social-buttons li a {
   color: #BD5D38;
 }
 
+.resume {
+  text-align: center;
+  width: 70%;
+  height: 70%;
+}
+
 .subheading {
   text-align: center;
   font-size: 25px;
   color: #6c757d!important;
 }
 
-.fa-ul .fa-check  {
+.fa-ul {
   color: #6c757d!important;
-  text-align: center;
+
 }
 
 /* end skills section */
