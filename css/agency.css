@@ -134,7 +134,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  /* color: #fec503; */x
+  /* color: #fec503; */
   color: white;
 }
 
@@ -377,6 +377,9 @@ header.masthead .intro-text .intro-heading {
   #portfolio .portfolio-item {
     margin: 0 0 30px;
   }
+}
+.img-fluid {
+margin: 10px;
 }
 
 .portfolio-modal {
